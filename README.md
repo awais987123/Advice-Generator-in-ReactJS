@@ -1,7 +1,7 @@
 
 # Random Advice Generator
-[live site](https://thirsty-lamarr-e2b282.netlify.app/)
-
+[Live Site](https://thirsty-lamarr-e2b282.netlify.app/)
+(https://s9.gifyu.com/images/Readme1.gif)
 
 
 ## Run Project on your device
